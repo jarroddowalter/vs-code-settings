@@ -17,26 +17,26 @@ More information: https://code.visualstudio.com/docs/getstarted/settings
 
 # Recommended Extensions
 
-Auto Close Tag
-Auto Rename Tag
-Code Spell Checker
-Color Highlight
-Color Picker
-CSS Peek
-ES7+ React/Redux/React-Native snippets
-ESLint
-GitLens
-HTML Snippets
-IntelliCode
-IntelliSense for CSS class names in HTML
-isort
-JavaScript (ES6) code snippets
-JavaScript and TypeSCript Nightly
-Jupyter
-Next.js snippets
-One Dark Pro
-Prettier
-Pylance
-Python
-Typescript React code snippets
-vscode-icons
+	- Auto Close Tag
+	- Auto Rename Tag
+	- Code Spell Checker
+	- Color Highlight
+	- Color Picker
+	- CSS Peek
+	- ES7+ React/Redux/React-Native snippets
+	- ESLint
+	- GitLens
+	- HTML Snippets
+	- IntelliCode
+	- IntelliSense for CSS class names in HTML
+	- isort
+	- JavaScript (ES6) code snippets
+	- JavaScript and TypeSCript Nightly
+	- Jupyter
+	- Next.js snippets
+	- One Dark Pro
+	- Prettier
+	- Pylance
+	- Python
+	- Typescript React code snippets
+	- vscode-icons
