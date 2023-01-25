@@ -33,6 +33,7 @@ More information: https://code.visualstudio.com/docs/getstarted/settings
 - JavaScript (ES6) code snippets
 - JavaScript and TypeSCript Nightly
 - Jupyter
+- Live Server
 - Next.js snippets
 - One Dark Pro
 - Prettier
